@@ -6,7 +6,7 @@
 
 4. **Variabel** : Tempat menyimpan data yang nilainya dapat berubah selama program berjalan.
 
-5. *Konstanta* : Tempat menyimpan data yang nilainya tetap dan tidak dapat diubah.
+5. **Konstanta** : Tempat menyimpan data yang nilainya tetap dan tidak dapat diubah.
 
 6. **Percabangan** : Struktur yang digunakan untuk memilih aksi berdasarkan suatu kondisi.
 
